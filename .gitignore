@@ -10,5 +10,6 @@ venv
 # Ignore editor temp files
 *~
 
-# Ignore release target
+# Ignore build and test artifacts
 target/
+reports/
